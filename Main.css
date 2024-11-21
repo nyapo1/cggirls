@@ -1,0 +1,10 @@
+.no-wrap {
+  white-space: nowrap; /* Prevent text wrapping */
+}
+.brand-name {
+  font-size: 1.5rem; /* Adjust brand name size */
+  flex: 0 1 auto; /* Allow brand name to take less space */
+}
+.navbar {
+  padding-left: 0; /* Remove left padding from navbar */
+}
